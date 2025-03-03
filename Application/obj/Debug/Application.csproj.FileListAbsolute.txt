@@ -1,0 +1,7 @@
+C:\Users\nites\source\repos\Application\bin\Debug\Application.exe.config
+C:\Users\nites\source\repos\Application\bin\Debug\Application.exe
+C:\Users\nites\source\repos\Application\bin\Debug\Application.pdb
+C:\Users\nites\source\repos\Application\obj\Debug\Application.csproj.AssemblyReference.cache
+C:\Users\nites\source\repos\Application\obj\Debug\Application.csproj.CoreCompileInputs.cache
+C:\Users\nites\source\repos\Application\obj\Debug\Application.exe
+C:\Users\nites\source\repos\Application\obj\Debug\Application.pdb
