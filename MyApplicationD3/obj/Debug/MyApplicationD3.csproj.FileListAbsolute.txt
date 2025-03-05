@@ -1,0 +1,7 @@
+C:\Users\nites\source\repos\MyApplicationD3\bin\Debug\MyApplicationD3.exe.config
+C:\Users\nites\source\repos\MyApplicationD3\bin\Debug\MyApplicationD3.exe
+C:\Users\nites\source\repos\MyApplicationD3\bin\Debug\MyApplicationD3.pdb
+C:\Users\nites\source\repos\MyApplicationD3\obj\Debug\MyApplicationD3.csproj.AssemblyReference.cache
+C:\Users\nites\source\repos\MyApplicationD3\obj\Debug\MyApplicationD3.csproj.CoreCompileInputs.cache
+C:\Users\nites\source\repos\MyApplicationD3\obj\Debug\MyApplicationD3.exe
+C:\Users\nites\source\repos\MyApplicationD3\obj\Debug\MyApplicationD3.pdb
