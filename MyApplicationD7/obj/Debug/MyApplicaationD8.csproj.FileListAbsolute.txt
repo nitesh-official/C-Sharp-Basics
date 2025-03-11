@@ -1,0 +1,7 @@
+C:\Users\nites\source\repos\MyApplicaationD8\bin\Debug\MyApplicaationD8.exe.config
+C:\Users\nites\source\repos\MyApplicaationD8\bin\Debug\MyApplicaationD8.exe
+C:\Users\nites\source\repos\MyApplicaationD8\bin\Debug\MyApplicaationD8.pdb
+C:\Users\nites\source\repos\MyApplicaationD8\obj\Debug\MyApplicaationD8.csproj.AssemblyReference.cache
+C:\Users\nites\source\repos\MyApplicaationD8\obj\Debug\MyApplicaationD8.csproj.CoreCompileInputs.cache
+C:\Users\nites\source\repos\MyApplicaationD8\obj\Debug\MyApplicaationD8.exe
+C:\Users\nites\source\repos\MyApplicaationD8\obj\Debug\MyApplicaationD8.pdb
